@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a couple Data Science Projects 
+- 🔭 I’m currently working on some Data Science & Web Development Combined Projects 
 - 🌱 I’m currently learning Swift, deepening new DL libraries (ex: FastAI, etc.)  
 - 👯 I’m looking to collaborate on an Open Source project
 - 🤔 I’m looking for help with Bioinformatics, Advanced ML & DL Projects kinda stuff   
